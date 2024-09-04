@@ -2,6 +2,7 @@ import numpy as np
 from scipy.optimize import least_squares, minimize
 from scipy.spatial.transform import Rotation as R
 import bpy
+#视频教程：https://space.bilibili.com/627908600
 # 安装库的指令：python -m pip install PyMuPDF Pillow scipy -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 # 需要修改的配置参数
