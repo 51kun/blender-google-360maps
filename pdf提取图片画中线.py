@@ -1,6 +1,7 @@
 import fitz  # PyMuPDF
 import os
 from PIL import Image, ImageDraw
+#视频教程：https://space.bilibili.com/627908600
 # 安装库的指令：python -m pip install PyMuPDF Pillow scipy -i https://pypi.tuna.tsinghua.edu.cn/simple
 # 获取当前脚本所在目录
 script_path = os.path.abspath(__file__)
